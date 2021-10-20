@@ -1,0 +1,27 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="Journal_pro.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="selected_background_image_index" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">1</Value>
+    </Setting>
+    <Setting Name="company_website" Type="System.String" Scope="User">
+      <Value Profile="(Default)">www.github.com/isaacbyr</Value>
+    </Setting>
+    <Setting Name="developer" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Isaac Byron</Value>
+    </Setting>
+    <Setting Name="User_name" Type="System.String" Scope="User">
+      <Value Profile="(Default)">admin</Value>
+    </Setting>
+    <Setting Name="user_password" Type="System.String" Scope="User">
+      <Value Profile="(Default)">test</Value>
+    </Setting>
+    <Setting Name="last_login" Type="System.String" Scope="User">
+      <Value Profile="(Default)">today</Value>
+    </Setting>
+    <Setting Name="last_memo_id" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
